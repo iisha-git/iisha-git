@@ -1,5 +1,5 @@
 <img src="assets/garden-intro.png" width="720" alt="Isha Singh. Computer Engineering, web development and applied AI."><br>
-<a href="game/index.html"><img src="assets/flappy.gif" width="720" alt="Commit courier. Tap to open the five-gate delivery game. The animation is decorative, not contribution data."></a><br>
+<a href="https://iisha-git.github.io/iisha-git/game/"><img src="assets/flappy.gif" width="720" alt="Commit courier. Tap to open the five-gate delivery game. The animation is decorative, not contribution data."></a><br>
 <img src="assets/garden-lead.png" width="720" alt="Tap the bird to play."><br>
 <a href="https://github.com/iisha-git/ViabilAg"><img src="assets/garden-bio.png" width="720" alt="bioOasis. Crop-label evidence. Early team prototype. Python, FastAPI, OCR."></a><br>
 <a href="https://laww-flame.vercel.app/"><img src="assets/garden-nyay.png" width="720" alt="NyayVivek. Legal case-research team prototype. Similar-case retrieval. React and FastAPI."></a><br>
