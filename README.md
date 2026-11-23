@@ -31,6 +31,11 @@
 <img src="assets/badges/github.svg" height="28" alt="GitHub">
 <img src="assets/badges/notion.svg" height="28" alt="Notion">
 <img src="assets/badges/arduino.svg" height="28" alt="Arduino">
+<img src="assets/badges/framer-motion.svg" height="28" alt="Framer Motion">
+<img src="assets/badges/cloudflare.svg" height="28" alt="Cloudflare">
+<img src="assets/badges/vercel.svg" height="28" alt="Vercel">
+<img src="assets/badges/expo.svg" height="28" alt="Expo">
+<img src="assets/badges/esp32.svg" height="28" alt="ESP32">
 </p>
 <p align="center"><img src="assets/garden-wins.png" width="100%" alt="Part of the Smart India Hackathon 2025 Grand Finale winning team. 8x national hackathon finalist, Top 15 of 127 and Top 50 of 623 teams. bioOasis/ViabilAg selected for the Eureka! 2026 zonal round. Co-author of From Satellite to Soil, published in IJIRMPS."></p>
 <p align="center"><a href="https://github.com/iisha-git/Daily-DSA"><img src="assets/garden-dsa.png" width="100%" alt="Daily DSA. Java, approaches and complexity."></a></p>
